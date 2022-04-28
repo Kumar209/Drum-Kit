@@ -11,7 +11,7 @@ body {
   background-position: center;
   background-size: cover;
   backdrop-filter: blur(8px);
-  overflow: auto;
+  Height: 100%;
 }
 
 h1 {
